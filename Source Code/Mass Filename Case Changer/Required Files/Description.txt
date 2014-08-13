@@ -1,0 +1,13 @@
+Mass Filename Case Changer
+
+Mass Filename Case Changer is a very basic program that simply changes the case of all filenames in a specified folder. File names can be changed to either uppercase, lowercase or title case. By default file extensions are forced to lowercase, but an option is available to leave them untouched. Note that the folder search is recursive in nature.
+
+Created by Craig Lotter, January 2006
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2003
+Implements concepts such as file manipulation.
+Level of Complexity: simple
